@@ -1,0 +1,6 @@
+# pack-refs with: peeled 
+ff6d728e53705df5cdd4a65eab8241f1e2571d3c refs/heads/Galerie-for-Contao-2.x.x
+358a54917e11113ce79c30a194fa62bbad9f19ce refs/heads/master
+53af6346e23ae6800cbd9229924a9679a39ea277 refs/tags/v1.2.0
+c80d03cde3fdc85e8fd4ea7d15f39db81f4070b1 refs/tags/v1.8.1
+^2a930a5d81be0e91c9c6a5f6962d81238e3f2e8d
